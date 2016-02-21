@@ -1,0 +1,1 @@
+This project use Linked List to implement a dictionary.
